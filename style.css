@@ -1,0 +1,16 @@
+.main{display: flex;
+    margin: 10px;
+    padding: 10px;
+   
+
+.name,.age,.class{
+    padding: 10px;
+    border: 1px solid green;
+
+}
+
+
+}
+#name, #age, #class{  padding: 10px;
+
+}
